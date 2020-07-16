@@ -1,0 +1,19 @@
+{
+  "name": "bookaway",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "email": "rajukhunt15@gmail.com",
+    "name": "Raju Khunt Rk(Mihir)",
+    "url": "https://github.com/rkrajukhunt/bookaway-nodejs-technical-task.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
+  }
+}
